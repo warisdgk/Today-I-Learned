@@ -14,4 +14,4 @@ _1 TILs and counting..._
 
 ### Android Studio
 
-- [Merging large files in AndroidStudio](android-studio\merging-as.md)
+- [Merging large files in AndroidStudio](android-studio/merging-as.md)
